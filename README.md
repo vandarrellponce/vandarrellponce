@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my personal Ecommerce App built with React, Node, Express and MongoDB
 - 🌱 I’m currently learning GraphQL, Typescript, UI Designs, Next.js, PostgresQL and many more!
 - 📫 How to reach me: 
-     - facebook: https://www.facebook.com/chumemplang
+     - facebook: https://www.facebook.com/vpdevlife
      - instagram: https://www.instagram.com/vpdevlife
 
 <!-- 
