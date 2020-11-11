@@ -1,4 +1,4 @@
-![logo](https://github.com/vandarrellponce/myportfoliowebsite/blob/main/public/favicon-32x32.png?raw=true)
+
 ### Hi there, I'm Darrell 👋 
 
 - 🔭 I’m currently working on my personal Ecommerce App built with React, Node, Express and MongoDB
@@ -6,6 +6,9 @@
 - 📫 How to reach me: 
      - facebook: https://www.facebook.com/vpdevlife
      - instagram: https://www.instagram.com/vpdevlife
+
+
+![logo](https://github.com/vandarrellponce/myportfoliowebsite/blob/main/public/favicon-32x32.png?raw=true)
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
