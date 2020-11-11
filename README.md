@@ -1,12 +1,13 @@
-### Hi there 👋
+![logo](https://github.com/vandarrellponce/myportfoliowebsite/blob/main/public/favicon-32x32.png?raw=true)
+### Hi there, I'm Darrell 👋 
 
-<!--
-**vandarrellponce/vandarrellponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my personal Ecommerce App built with React, Node, Express and MongoDB
+- 🌱 I’m currently learning GraphQL, Typescript, UI Designs, Next.js, PostgresQL and many more!
+- 📫 How to reach me: 
+     - facebook: https://www.facebook.com/chumemplang
+     - instagram: https://www.instagram.com/vpdevlife
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
